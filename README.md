@@ -24,7 +24,7 @@
 
 - Create some user data
 - start rails server and navigate to `http://localhost:3000/graphiql`
-- 
+- Create some seed data 
 
 19. rails g graphql:input -h
 20. rails g graphql:input User
